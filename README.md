@@ -1,4 +1,4 @@
-## Hallo, I'm Cristiam Loaiza
+## Hallo, I'm Cristian Mendoza
 <div align="center">
   <a href="https://github.com/Albertooo18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albertooo18&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -29,7 +29,8 @@
 
     <a href="https://www.linkedin.com/in/cristian-mendoza-67095b266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/user/wxofnhbhh2p6i5nyn5qk1631q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-<!-- 
+
+    <!-- 
   <a href="mailto:crixtiam9211@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  	<a href="https://twitter.com/crixxtiam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>

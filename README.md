@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Hallo, I'm Cristiam Mendoza
+## Hallo, I'm Cristian Mendoza
 <div align="center">
-  <a href="https://github.com/crixtiam">
+  <a href="https://github.com/Albertooo18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albertooo18&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albeertooo18&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>

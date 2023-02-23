@@ -1,4 +1,7 @@
 ## Hallo, I'm Cristian Mendoza
+
+~ Now I'm learning python and Web developing (HTML, CSS, JS, ETC..) and Studying Cyber-security at UTP (Universidad tecnologica de panama)
+
 <div align="center">
   <a href="https://github.com/Albertooo18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albertooo18&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>

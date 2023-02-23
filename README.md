@@ -23,18 +23,11 @@
   <img align="center" alt="Rafa-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"> 
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   </div>  -->
-  
- ##
-  
- 
+   
 
- <div> 
-
-    <a href="https://www.linkedin.com/in/cristian-mendoza-67095b266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://open.spotify.com/user/wxofnhbhh2p6i5nyn5qk1631q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-
-    
-
+<div>
+<a href="https://www.linkedin.com/in/cristian-mendoza-67095b266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://open.spotify.com/user/wxofnhbhh2p6i5nyn5qk1631q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
 
 <!-- 

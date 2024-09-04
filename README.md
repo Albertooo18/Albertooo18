@@ -41,6 +41,6 @@
 
 ### Snake eating my contributions
 
-<img src="[https://raw.githubusercontent.com/Albertooo18/Albertooo18/output/github-contribution-grid-snake.svg](https://github.com/Albertooo18/Albertooo18/blob/output/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Albertooo18/Albertooo18/output/snake.svg" alt="Snake animation" />
 
 ###

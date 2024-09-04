@@ -39,6 +39,8 @@
 
 <br clear="both">
 
+### Snake eating my contributions
+
 <img src="https://raw.githubusercontent.com/Albertooo18/Albertooo18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###

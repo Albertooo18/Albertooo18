@@ -23,7 +23,7 @@ jobs:
           mv snake.svg dist/snake.svg
 
       - name: Push Snake to the GitHub repository
-        uses: crazy-max/ghaction-github-pages@v4 # Cambia a la versión más reciente
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist

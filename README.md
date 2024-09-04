@@ -39,6 +39,10 @@
 
 <br clear="both">
 
+### Snake eating my contributions
+
+![Snake animation](https://raw.githubusercontent.com/albertooo18/albertooo18/output/snake.svg](https://github.com/Albertooo18/Albertooo18/blob/main/.github/workflows/snake.yml)
+
 <img src="[https://raw.githubusercontent.com/albertooo18/albertooo18/output/snake.svg](https://github.com/Albertooo18/Albertooo18/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
 
 ###
